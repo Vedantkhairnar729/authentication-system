@@ -213,7 +213,7 @@ JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
 JWT_EXPIRES_IN=7d
 NODE_ENV=development
 CLIENT_URL=http://localhost:5173
-MONGODB_URI=mongodb+srv://tempusein7_db_user:AF6vluaczqVcv76y@cluster0.qpeioau.mongodb.net/auth_db?retryWrites=true&w=majority
+MONGODB_URI=<your-mongodb-uri-here>
 ```
 
 ---
