@@ -42,7 +42,8 @@ npm install mongoose @types/mongoose
 ### 6. **Environment Variables**
 **File**: `server/.env`
 ```env
-MONGODB_URI=mongodb+srv://tempusein7_db_user:AF6vluaczqVcv76y@cluster0.qpeioau.mongodb.net/auth_db?retryWrites=true&w=majority
+MONGODB_URI=<your-mongodb-uri-here>
+
 ```
 
 ---
@@ -51,7 +52,8 @@ MONGODB_URI=mongodb+srv://tempusein7_db_user:AF6vluaczqVcv76y@cluster0.qpeioau.m
 
 **Connection String**: 
 ```
-mongodb+srv://tempusein7_db_user:AF6vluaczqVcv76y@cluster0.qpeioau.mongodb.net/auth_db
+MONGODB_URI=<your-mongodb-uri-here>
+
 ```
 
 **Database Name**: `auth_db`  
